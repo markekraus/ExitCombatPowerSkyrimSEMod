@@ -18,9 +18,19 @@ Download and install with Vortex and the FOMOD installer will take care of the r
 
 * Extract the 7z file using 7-Zip.
 * Copy the extracted `MarkekrausExitCombatPower.esl` (recommended) or `MarkekrausExitCombatPower.esp` (legacy) file to the Data folder under your Skyrim: Special Edition installation folder.
-* Copy the extracted `scripts\MarkekrausExitCombatPowerQuestScript.pex`, `scripts\PowerMarkekrausExitCombatScript.pex` and `scripts\PowerMarkekrausExitCombatTargetScript.pex` files to the `data\scripts` folder under your Skyrim: Special Edition installation folder.
+* Copy the extracted `scripts` folder to the `data` folder under your Skyrim: Special Edition installation folder.
 * Enable the plugin using whatever method you usually use.
+
+## User Guide
+
+The 'Exit Combat' and 'Exit Combat (Target)' powers will be automatically added to your powers list. Magicka > Powers. Equip the 'Exit Combat' power, use the power/shout button, and you will exit combat. To make a creature exit combat, equip `Exit Combat (Target)', aim at the creature you wish to remove from combat, press the power/shout button.
 
 ## Compatibility
 
 This mod should be compatible with everything and should not require any patches.
+
+## Warning: Not Lore-Friendly and Combat Balance
+
+This mod is definitely not lore-friendly.
+
+Also, while I created this mod to help with issues in other mods, the powers could be exploited to severely unbalance combat. For example, you could run to a giant, smash it a few times with a weapon, then use 'Exit Combat (Target)' on the giant and it will stop attacking. Alternatively, 'Exit Combat' could be used to avoid dying in battle. How you use the mod is up to you
