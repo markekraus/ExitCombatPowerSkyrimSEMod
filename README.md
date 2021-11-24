@@ -4,6 +4,12 @@
 
 A Skyrim: Special Edition mod by Mark E. Kraus.
 
+My mods:
+
+* [Cheat Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/58973)
+* [Cheat Powers](https://www.nexusmods.com/skyrimspecialedition/mods/58892)
+* [Exit Combat Power](https://www.nexusmods.com/skyrimspecialedition/mods/58651)
+
 ## About Exit Combat Power
 
 This mod adds the 'Exit Combat' and 'Exit Combat (Target)' powers to the player that will allow the player to exit combat. This works similar to the Sneak level 100 perk 'Shadow Warrior' but also runs a script to exit combat more firmly. If you are near an enemy that you are supposed to be in combat with, combat will reengage. This is meant to help when you are far away from an enemy but combat will not end.
