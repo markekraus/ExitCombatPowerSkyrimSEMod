@@ -1,6 +1,8 @@
 # Exit Combat Power
 
-By Mark E. Kraus.
+![Exit Combat Power](logo.png)
+
+A Skyrim: Special Edition mod by Mark E. Kraus.
 
 ## About Exit Combat Power
 
@@ -33,4 +35,4 @@ This mod should be compatible with everything and should not require any patches
 
 This mod is definitely not lore-friendly.
 
-Also, while I created this mod to help with issues in other mods, the powers could be exploited to severely unbalance combat. For example, you could run to a giant, smash it a few times with a weapon, then use 'Exit Combat (Target)' on the giant and it will stop attacking. Alternatively, 'Exit Combat' could be used to avoid dying in battle. How you use the mod is up to you
+Also, while I created this mod to help with issues in other mods, the powers could be exploited to severely unbalance combat. For example, you could run to a giant, smash it a few times with a weapon, then use 'Exit Combat (Target)' on the giant and it will stop attacking. Alternatively, 'Exit Combat' could be used to avoid dying in battle. How you use the mod is up to you.
