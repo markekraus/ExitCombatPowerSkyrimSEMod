@@ -20,9 +20,9 @@ This mod adds the 'Exit Combat' and 'Exit Combat (Target)' powers to the player 
 
 I created the mod because I was constantly getting stuck in combat due to a combination of mods interacting poorly. Combining [Amazing Follower Tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/6656) with [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)'s skeleton warriors would result in my army of minions running off and agroing something random, especially when a wolf controlled by [SkyTEST - Realistic Animals and Predators SE](https://www.nexusmods.com/skyrimspecialedition/mods/1104) would run off indefinitely. No matter what I did I could never get out of combat without using the `player.stopcombatalarmonactor` console code. This power makes the process more user-friendly.
 
-## Manual Upgrading from 1.0.1 to 2.0.0 or later
+## Manual Upgrading from 1.X.X to 2.0.0 or later
 
-If you manually installed version 1.0.1 of this mod (this does not apply to Mod Organizer 2, Vortex, or other mod managers), before updating to 2.0.0, you will need to do the following:
+If you manually installed version 1.X.X of this mod (this does not apply to Mod Organizer 2, Vortex, or other mod managers), before updating to 2.0.0, you will need to do the following:
 
 * Disable the `MarkekrausExitCombatPower.esl` plugin using whatever method you usually use.
 * Open the `Data` folder under your Skyrim: Special Edition installation folder.
