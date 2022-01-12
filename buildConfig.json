@@ -1,0 +1,14 @@
+{
+  "$schema": "http://mekschemas.netlify.app/modpackager/v2/",
+  "UnfuzerPath": "D:\\Steam\\steamapps\\common\\Skyrim Special Edition\\Tools\\unfuzer",
+  "ModInfo": {
+    "Name": "Exit Combat Powers",
+    "Version": "2.0.0",
+    "Author": "Mark E. Kraus",
+    "Description": "Adds 2 lesser powers allowing the player or target to exit combat when stuck due to mod glitches.",
+    "Website": "https://www.nexusmods.com/skyrimspecialedition/mods/58651",
+    "Category": "Utilities",
+    "Logo": "logo.png"
+  },
+  "Plugin": "MarkekrausExitCombatPower.esp"
+}
